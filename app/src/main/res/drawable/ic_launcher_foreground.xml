@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet base shape centered in 66dp zone (from 21 to 87) -->
+    <path
+        android:pathData="M28,34 C28,31.79 29.79,30 32,30 L76,30 C78.21,30 80,31.79 80,34 L80,74 C80,76.21 78.21,78 76,78 L32,78 C29.79,78 28,76.21 28,74 Z"
+        android:fillColor="#10B981" />
+    <!-- Wallet flap -->
+    <path
+        android:pathData="M28,36 L76,36 C78.21,36 80,37.79 80,40 L80,44 L28,44 Z"
+        android:fillColor="#059669" />
+    <!-- Card sticking out -->
+    <path
+        android:pathData="M34,26 C34,24.9 34.9,24 36,24 L72,24 C73.1,24 74,24.9 74,26 L74,30 L34,30 Z"
+        android:fillColor="#34D399" />
+    <!-- Clasp / Pocket -->
+    <path
+        android:pathData="M64,50 C64,47.79 65.79,46 68,46 L82,46 L82,62 L68,62 C65.79,62 64,60.21 64,58 Z"
+        android:fillColor="#047857" />
+    <!-- Golden Token / Clasp Stud -->
+    <path
+        android:pathData="M73,54 A3,3 0 1,1 73,54.01"
+        android:fillColor="#FBBF24" />
+    <!-- Growth Arrow / Trend -->
+    <path
+        android:pathData="M35,66 L45,55 L53,61 L61,50 L59,50 L63,48 L65,54 L63,54 L54,63 L45,57 L37,68 Z"
+        android:fillColor="#FFFFFF" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Production-quality Expense Tracker with SQLite storage, multi-account tracking, category management, budgets, recurring transactions, analytics, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
